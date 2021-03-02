@@ -6,7 +6,7 @@ Parcel 2 is currently in beta, for more information check out [Parcel's document
 
 1. Clone the repo
 2. Run `npm install` in your terminal
-3. Run `npm start` in your terminal. Parcel will install additional dependencies needed to watch Sass files and optimize code using PostCss.
+3. Run `npm start` in your terminal. Parcel will install additional dependencies needed to watch Sass files and optimize code using PostCSS.
 
 ## Production
 
