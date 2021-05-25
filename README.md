@@ -1,6 +1,6 @@
 # Sass and Parcel 2 Starter
 
-Parcel 2 is currently in beta, for more information check out [Parcel's documentation](https://v2.parceljs.org/)
+Parcel 2 is currently in beta, for more information please check out [Parcel's documentation](https://v2.parceljs.org/)
 
 ## How to use
 
